@@ -10,7 +10,7 @@
 ### Experiments 🥼
 * [React Sans Canvas Game](https://github.com/jamesgiu/react-sans-canvas-game) 🎮
 
-### Archive/Inactive 🔒
+### Archive 🔒
 * [Google Business Finder](https://github.com/jamesgiu/google-business-finder) 👨‍💼
 * [Unity Action RPG](https://github.com/jamesgiu/action-rpg-2016-archive) 🎮
 
