@@ -19,3 +19,4 @@
 * https://github.com/jamesgiu/action-rpg-2016-archive 🎮
 
 <img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jamesgiu&show_icons=true&theme=gotham" alt="jamesgiu" />
