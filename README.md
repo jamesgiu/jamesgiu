@@ -1,4 +1,4 @@
-# jamesgiu
+# jamesgiu 👋
 ### Check 'em out 👀
 * https://github.com/palantir/blueprint 🟦
 * https://github.com/academia-de-codigo/react-semantic-toasts 🍞
