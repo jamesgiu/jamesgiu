@@ -1,4 +1,7 @@
-# jamesgiu 👋
+# jamesgiu 👋 
+
+<img src="https://user-images.githubusercontent.com/13777223/193841015-643c0b48-8334-48d8-8917-97f5e2fb7b7f.png" width="200" height="200"/>
+
 ### Check 'em out 👀
 * https://github.com/palantir/blueprint 🟦
 * https://github.com/academia-de-codigo/react-semantic-toasts 🍞
