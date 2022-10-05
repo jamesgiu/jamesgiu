@@ -1,6 +1,6 @@
+<img src="https://user-images.githubusercontent.com/13777223/194075799-2c593a04-5d9d-4163-a621-c9ff11e5791e.png" align="right" />
 
 # jamesgiu 👋 
-![image](https://user-images.githubusercontent.com/13777223/194075799-2c593a04-5d9d-4163-a621-c9ff11e5791e.png)
 
 ## Check 'em out 👀 👉
 * https://github.com/palantir/blueprint 🟦
