@@ -1,5 +1,6 @@
 
 # jamesgiu 👋 
+![image](https://user-images.githubusercontent.com/13777223/194075799-2c593a04-5d9d-4163-a621-c9ff11e5791e.png)
 
 ## Check 'em out 👀 👉
 * https://github.com/palantir/blueprint 🟦
@@ -18,7 +19,7 @@
 ## Experiments 🔬
 * https://github.com/jamesgiu/react-sans-canvas-game 🎮
 
-## Archive 🔒
+## Archive <img src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1546790/558efce86af3043bda6ac5078e1801dc7b587de7.png" width="50" height="60"/>
 * https://github.com/jamesgiu/google-business-finder 👨‍💼
 * https://github.com/jamesgiu/action-rpg-2016-archive 🎮
 
