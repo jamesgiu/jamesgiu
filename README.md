@@ -23,4 +23,4 @@
 * https://github.com/jamesgiu/google-business-finder 👨‍💼
 * https://github.com/jamesgiu/action-rpg-2016-archive 🎮
 
-<img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60"/>
+<img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60" align="right"/>
