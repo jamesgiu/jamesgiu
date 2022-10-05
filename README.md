@@ -8,8 +8,7 @@
 * https://github.com/chriszappia/poker 🃏
 
 ### Come and visit 🚪🏠
-#### Quick-hit
-* https://github.com/jamesgiu/quick-hit 🏓
+#### https://github.com/jamesgiu/quick-hit 🏓
 <p>
 <img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" />
 <img height="32" width="32" src="https://img.icons8.com/color/2x/firebase.png" />
@@ -19,7 +18,7 @@
 <img height="32" width="32" src="https://react.semantic-ui.com/logo.png" />
 </p>
 
-* https://github.com/jamesgiu/quick-tick ✔ 
+#### https://github.com/jamesgiu/quick-tick ✔ 
 <p>
 <img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" />
 <img height="32" width="32" src="https://vitejs.dev/logo-with-shadow.png" />
