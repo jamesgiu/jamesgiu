@@ -3,12 +3,14 @@
 # jamesgiu 👋 
 
 ## Check 'em out 👀 👉
+* [ChrisNeedham24/microcosm](https://github.com/ChrisNeedham24/microcosm) 🎮
 * [palantir/blueprint](https://github.com/palantir/blueprint) 🟦
 * [academia-de-codigo/react-semantic-toasts](https://github.com/academia-de-codigo/react-semantic-toasts) 🍞
-* [ChrisNeedham24/microcosm](https://github.com/ChrisNeedham24/microcosm) 🎮
-* [chriszappia/poker](https://github.com/chriszappia/poker) 🃏
 
 ## Come and visit 🚪🏠
+| [jamesgiu/quick-acyclic](https://github.com/jamesgiu/quick-acyclic) 🔀 |  <p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /></p>  |
+|---|---|
+
 | [jamesgiu/quick-hit](https://github.com/jamesgiu/quick-hit) 🏓   | <p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/firebase.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/google-logo.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /><img height="32" width="32" src="https://react.semantic-ui.com/logo.png" /></p>  |
 |---|---|
 
