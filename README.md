@@ -8,7 +8,7 @@
 * [academia-de-codigo/react-semantic-toasts](https://github.com/academia-de-codigo/react-semantic-toasts) 🍞
 
 ## Come and visit 🚪🏠
-| [jamesgiu/quick-acyclic](https://github.com/jamesgiu/quick-acyclic) 🔀 |  <p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /></p>  |
+| [jamesgiu/quick-cyc](https://github.com/jamesgiu/quick-cyc) 🔀 |  <p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /></p>  |
 |---|---|
 
 | [jamesgiu/quick-hit](https://github.com/jamesgiu/quick-hit) 🏓   | <p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/firebase.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/color/2x/google-logo.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /><img height="32" width="32" src="https://react.semantic-ui.com/logo.png" /></p>  |
