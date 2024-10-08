@@ -20,7 +20,7 @@
 | [jamesgiu/quick-kit](https://github.com/jamesgiu/quick-kit) 🦀 | <p><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" /></p>  |
 |---|---|
 
-| [jamesgiu/quick-kit](https://github.com/jamesgiu/quick-fit) 🧥 | <p><p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /></p>  |
+| [jamesgiu/quick-fit](https://github.com/jamesgiu/quick-fit) 🧥 | <p><p><img height="32" width="32" src="https://img.icons8.com/color/2x/npm.png" /><img height="32" width="32" src="https://img.icons8.com/bubbles/2x/react.png" /><img height="32" width="32" src="https://img.icons8.com/fluency/2x/typescript--v2.png" /></p>  |
 |---|---|
 
 ## Experiments 🔬
