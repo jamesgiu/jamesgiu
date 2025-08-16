@@ -1,4 +1,4 @@
-# jamesgiu 👋 
+# hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <img src="https://user-images.githubusercontent.com/13777223/194075799-2c593a04-5d9d-4163-a621-c9ff11e5791e.png" align="right" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jamesgiu&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
@@ -28,4 +28,10 @@
 * [jamesgiu/google-business-finder](https://github.com/jamesgiu/google-business-finder) 👨‍💼
 * [jamesgiu/action-rpg-2016-archive](https://github.com/jamesgiu/action-rpg-2016-archive) 🎮
 
-<img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60" align="right"/>
+<details>
+  <summary><img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60" align="left"/></summary>
+  <p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=hi;i+hope+you+are+having+fun;you+got+this;no+matter+how+hard+it+gets;just+be+you;thats+what+got+you+here;dont+wait+a+single+moment;to+start+changing+the+world;changing+your+world;i+love+you&center=false&width=380&height=45"></a>
+    </p>
+</details>
+
