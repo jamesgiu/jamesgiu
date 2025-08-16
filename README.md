@@ -31,7 +31,7 @@
 <details>
   <summary><img src="https://media.tenor.com/fAQ4mdg7iz4AAAAj/pixel-cat.gif" width="50" height="60" align="left"/></summary>
   <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=hi;i+hope+you+are+having+fun;you+got+this;no+matter+how+hard+it+gets;just+be+you;thats+what+got+you+here;dont+wait+a+single+moment;to+start+changing+the+world;changing+your+world;i+love+you&center=false&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img loading="lazy" src="https://readme-typing-svg.herokuapp.com?lines=hi;i+hope+you+are+having+fun;you+got+this;no+matter+how+hard+it+gets;just+be+you;thats+what+got+you+here;dont+wait+a+single+moment;to+start+changing+the+world;changing+your+world;i+love+you&center=false&width=380&height=45"></a>
     </p>
 </details>
 
